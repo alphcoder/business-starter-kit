@@ -1,3 +1,5 @@
+![Preview](preview.png)
+
 # 🚀 Business Starter Kit
 
 Шаблон корпоративного сайта / лендинга для бизнеса — **Next.js** + **React** + **Tailwind CSS** + интеграции (AmoCRM, ЮKassa, Telegram).
